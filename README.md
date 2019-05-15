@@ -15,6 +15,10 @@ Once run this tool gathers the following information:
 
 -internal IP addresses found
 
+-list of running processes
+
+-list of running services
+
 -antivirus products found (note: code invokes wmi for this check)
 
 -endpoint detection & response products found
